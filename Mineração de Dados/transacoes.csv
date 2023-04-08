@@ -1,0 +1,7 @@
+﻿liquidificador,maq_lavar,geladeira,batedeira,fogão,microondas,aspirador,processador,forno,maq_secar
+liquidificador,maq_lavar,geladeira,batedeira,,,,,,
+,maq_lavar,,,fogão,microondas,aspirador,,,
+liquidificador,,geladeira,,fogão,microondas,,processador,,
+,,geladeira,,fogão,,,,forno,
+liquidificador,,,batedeira,fogão,microondas,aspirador,,forno,
+liquidificador,maq_lavar,,batedeira,fogão,microondas,,,,maq_secar
